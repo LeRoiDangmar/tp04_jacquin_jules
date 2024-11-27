@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "libelle": "Informatique"
+    },
+    {
+        "id": 2,
+        "libelle": "Périphériques"
+    },
+    {
+        "id": 3,
+        "libelle": "Stockage"
+    },
+    {
+        "id": 4,
+        "libelle": "Bureau"
+    },
+    {
+        "id": 5,
+        "libelle": "Audio"
+    },
+    {
+        "id": 6,
+        "libelle": "Réseau"
+    },
+    {
+        "id": 7,
+        "libelle": "Accessoires"
+    },
+    {
+        "id": 8,
+        "libelle": "Création"
+    },
+    {
+        "id": 9,
+        "libelle": "Jeux vidéo"
+    },
+    {
+        "id": 10,
+        "libelle": "Sécurité"
+    }
+]
