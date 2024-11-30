@@ -48,9 +48,9 @@ export class FetcherService {
   }
 
   // renvoie les catégories
-  public fetchCategorie(ids: number[]): Observable<Categorie[]> {
+  public fetchCategories(): Observable<Categorie[]> {
     return this.http.get<Categorie[]>(environment.backendClientCategories).pipe(
-      map(items => items.filter(item => ids.includes(item.id)))
+      map(items => items.filter(item => items))
     )
   }
 
