@@ -1,0 +1,22 @@
+.v-menu-container{
+    display: flex;
+    position: fixed;
+    height: 93vh;
+    margin-top: 7vh;
+    width: 170px;
+    background-color: var(--secondary);
+    opacity: 70%;
+    border-right: solid;
+    border-color: var(--primary);
+}
+
+.h-menu-container{
+    display: flex;
+    position: fixed;
+    width: 100vw;
+    height: 7vh;
+    background-color: var(--secondary);
+    opacity: 70%;
+    border-bottom: solid;
+    border-color: var(--primary);
+}

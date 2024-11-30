@@ -7,7 +7,8 @@
         "description": "Un ordinateur portable performant avec un processeur rapide et une longue autonomie de batterie.",
         "dimensions": "35 x 24 x 2 cm",
         "note": 4.5,
-        "id_categorie": 1
+        "id_categorie": 1,
+        "en_avant": true
     },
     {
         "id": 2,
@@ -17,7 +18,8 @@
         "description": "Clavier mécanique avec rétroéclairage RGB et touches programmables.",
         "dimensions": "44 x 13 x 3 cm",
         "note": 4.7,
-        "id_categorie": 2
+        "id_categorie": 2,
+        "en_avant": true
     },
     {
         "id": 3,
@@ -27,7 +29,8 @@
         "description": "Souris ergonomique pour les jeux avec haute précision et boutons personnalisables.",
         "dimensions": "12 x 7 x 4 cm",
         "note": 4.6,
-        "id_categorie": 2
+        "id_categorie": 2,
+        "en_avant": true
     },
     {
         "id": 4,
@@ -37,7 +40,8 @@
         "description": "Moniteur Full HD de 24 pouces avec cadre fin et technologie anti-scintillement.",
         "dimensions": "54 x 32 x 5 cm",
         "note": 4.4,
-        "id_categorie": 1
+        "id_categorie": 1,
+        "en_avant": true
     },
     {
         "id": 5,
@@ -47,7 +51,8 @@
         "description": "Stockage portable de 1 To avec connectivité USB 3.0 pour des transferts rapides.",
         "dimensions": "11 x 8 x 1.5 cm",
         "note": 4.5,
-        "id_categorie": 3
+        "id_categorie": 3,
+        "en_avant": true
     },
     {
         "id": 6,
@@ -57,7 +62,8 @@
         "description": "Clé USB compacte de 64 Go pour transporter vos fichiers partout.",
         "dimensions": "5.5 x 2 x 0.8 cm",
         "note": 4.3,
-        "id_categorie": 3
+        "id_categorie": 3,
+        "en_avant": false
     },
     {
         "id": 7,
@@ -67,7 +73,8 @@
         "description": "Imprimante tout-en-un avec fonctions de copie, numérisation et impression sans fil.",
         "dimensions": "42 x 30 x 16 cm",
         "note": 4.2,
-        "id_categorie": 4
+        "id_categorie": 4,
+        "en_avant": false
     },
     {
         "id": 8,
@@ -77,7 +84,8 @@
         "description": "Carte graphique puissante pour le gaming et le montage vidéo en haute résolution.",
         "dimensions": "28 x 11 x 4 cm",
         "note": 4.7,
-        "id_categorie": 1
+        "id_categorie": 1,
+        "en_avant": false
     },
     {
         "id": 9,
@@ -87,7 +95,8 @@
         "description": "Casque audio avec suppression de bruit active et qualité sonore supérieure.",
         "dimensions": "18 x 15 x 7 cm",
         "note": 4.6,
-        "id_categorie": 5
+        "id_categorie": 5,
+        "en_avant": false
     },
     {
         "id": 10,
@@ -97,7 +106,8 @@
         "description": "Routeur Wi-Fi double bande offrant une couverture étendue et une connexion stable.",
         "dimensions": "20 x 13 x 3 cm",
         "note": 4.4,
-        "id_categorie": 6
+        "id_categorie": 6,
+        "en_avant": false
     },
     {
         "id": 11,
@@ -107,7 +117,8 @@
         "description": "Chargeur sans fil compatible avec la plupart des smartphones pour une charge rapide.",
         "dimensions": "10 x 10 x 1 cm",
         "note": 4.5,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 12,
@@ -117,7 +128,8 @@
         "description": "Support ergonomique réglable pour améliorer le confort d'utilisation de votre laptop.",
         "dimensions": "26 x 22 x 2 cm",
         "note": 4.3,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 13,
@@ -127,7 +139,8 @@
         "description": "Hub USB-C multifonction avec ports HDMI, USB et lecteur de cartes SD.",
         "dimensions": "9 x 4 x 1 cm",
         "note": 4.4,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 14,
@@ -137,7 +150,8 @@
         "description": "Webcam haute définition avec micro intégré pour des appels vidéo clairs.",
         "dimensions": "7 x 3 x 4 cm",
         "note": 4.2,
-        "id_categorie": 2
+        "id_categorie": 2,
+        "en_avant": false
     },
     {
         "id": 15,
@@ -147,7 +161,8 @@
         "description": "Tablette graphique professionnelle avec stylet sensible à la pression.",
         "dimensions": "35 x 22 x 1 cm",
         "note": 4.6,
-        "id_categorie": 8
+        "id_categorie": 8,
+        "en_avant": false
     },
     {
         "id": 16,
@@ -157,7 +172,8 @@
         "description": "Lampe de bureau à intensité réglable avec lumière blanche chaude ou froide.",
         "dimensions": "40 x 12 x 12 cm",
         "note": 4.5,
-        "id_categorie": 4
+        "id_categorie": 4,
+        "en_avant": false
     },
     {
         "id": 17,
@@ -167,7 +183,8 @@
         "description": "Enceinte résistante à l'eau avec une autonomie de 12 heures.",
         "dimensions": "18 x 7 x 7 cm",
         "note": 4.6,
-        "id_categorie": 5
+        "id_categorie": 5,
+        "en_avant": false
     },
     {
         "id": 18,
@@ -177,7 +194,8 @@
         "description": "Power bank haute capacité pour recharger vos appareils plusieurs fois.",
         "dimensions": "15 x 7 x 2 cm",
         "note": 4.7,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 19,
@@ -187,7 +205,8 @@
         "description": "Microphone de studio USB pour l'enregistrement de podcasts ou de musique.",
         "dimensions": "15 x 5 x 5 cm",
         "note": 4.5,
-        "id_categorie": 5
+        "id_categorie": 5,
+        "en_avant": false
     },
     {
         "id": 20,
@@ -197,7 +216,8 @@
         "description": "Carte son USB pour améliorer la qualité audio de votre ordinateur.",
         "dimensions": "8 x 5 x 1 cm",
         "note": 4.3,
-        "id_categorie": 5
+        "id_categorie": 5,
+        "en_avant": false
     },
     {
         "id": 21,
@@ -207,7 +227,8 @@
         "description": "Ventilateur silencieux pour PC avec éclairage LED.",
         "dimensions": "12 x 12 x 2.5 cm",
         "note": 4.4,
-        "id_categorie": 1
+        "id_categorie": 1,
+        "en_avant": false
     },
     {
         "id": 22,
@@ -217,7 +238,8 @@
         "description": "Adaptateur pour diffuser du contenu de votre smartphone vers votre TV sans fil.",
         "dimensions": "6 x 3 x 1 cm",
         "note": 4.2,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 23,
@@ -227,7 +249,8 @@
         "description": "Station de charge pour recharger simultanément plusieurs appareils.",
         "dimensions": "20 x 15 x 5 cm",
         "note": 4.5,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 24,
@@ -237,7 +260,8 @@
         "description": "Coque de protection transparente pour smartphone avec coins renforcés.",
         "dimensions": "Selon le modèle du téléphone",
         "note": 4.4,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 25,
@@ -247,7 +271,8 @@
         "description": "Câble HDMI haute vitesse pour une transmission vidéo et audio optimale.",
         "dimensions": "200 cm de longueur",
         "note": 4.6,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 26,
@@ -257,7 +282,8 @@
         "description": "Souris sans fil ergonomique pour réduire la fatigue du poignet.",
         "dimensions": "11 x 7 x 6 cm",
         "note": 4.5,
-        "id_categorie": 2
+        "id_categorie": 2,
+        "en_avant": false
     },
     {
         "id": 27,
@@ -267,7 +293,8 @@
         "description": "PC de bureau puissant avec processeur de dernière génération et grande capacité de stockage.",
         "dimensions": "45 x 20 x 45 cm",
         "note": 4.7,
-        "id_categorie": 1
+        "id_categorie": 1,
+        "en_avant": false
     },
     {
         "id": 28,
@@ -277,7 +304,8 @@
         "description": "Casque de réalité virtuelle pour une immersion totale dans vos jeux et applications.",
         "dimensions": "19 x 10 x 10 cm",
         "note": 4.6,
-        "id_categorie": 1
+        "id_categorie": 1,
+        "en_avant": false
     },
     {
         "id": 29,
@@ -287,7 +315,8 @@
         "description": "Docking station avec multiples ports pour connecter tous vos périphériques.",
         "dimensions": "25 x 8 x 2 cm",
         "note": 4.4,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 30,
@@ -297,7 +326,8 @@
         "description": "Tapis de souris extra-large pour un espace de jeu étendu.",
         "dimensions": "90 x 40 x 0.3 cm",
         "note": 4.5,
-        "id_categorie": 2
+        "id_categorie": 2,
+        "en_avant": false
     },
     {
         "id": 31,
@@ -307,7 +337,8 @@
         "description": "Chargeur compatible avec la plupart des ordinateurs portables.",
         "dimensions": "12 x 5 x 3 cm",
         "note": 4.3,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 32,
@@ -317,7 +348,8 @@
         "description": "Amplifie le signal Wi-Fi pour une meilleure couverture dans votre maison.",
         "dimensions": "8 x 5 x 7 cm",
         "note": 4.2,
-        "id_categorie": 6
+        "id_categorie": 6,
+        "en_avant": false
     },
     {
         "id": 33,
@@ -327,7 +359,8 @@
         "description": "Boîtier externe pour convertir un SSD interne en stockage portable.",
         "dimensions": "10 x 7 x 1 cm",
         "note": 4.5,
-        "id_categorie": 3
+        "id_categorie": 3,
+        "en_avant": false
     },
     {
         "id": 34,
@@ -337,7 +370,8 @@
         "description": "Contrôleur ergonomique pour une expérience de jeu optimale sur PC.",
         "dimensions": "15 x 10 x 5 cm",
         "note": 4.6,
-        "id_categorie": 9
+        "id_categorie": 9,
+        "en_avant": false
     },
     {
         "id": 35,
@@ -347,7 +381,8 @@
         "description": "Sac à dos résistant avec compartiment rembourré pour laptop jusqu'à 15 pouces.",
         "dimensions": "45 x 30 x 15 cm",
         "note": 4.7,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 36,
@@ -357,7 +392,8 @@
         "description": "Clavier sans fil compact avec connexion Bluetooth.",
         "dimensions": "28 x 13 x 2 cm",
         "note": 4.4,
-        "id_categorie": 2
+        "id_categorie": 2,
+        "en_avant": false
     },
     {
         "id": 37,
@@ -367,7 +403,8 @@
         "description": "Câble antivol robuste pour sécuriser votre ordinateur portable.",
         "dimensions": "Longueur du câble : 1.8 m",
         "note": 4.5,
-        "id_categorie": 10
+        "id_categorie": 10,
+        "en_avant": false
     },
     {
         "id": 38,
@@ -377,7 +414,8 @@
         "description": "Lecteur multi-cartes USB pour transférer facilement vos photos et vidéos.",
         "dimensions": "6 x 2 x 1 cm",
         "note": 4.3,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     },
     {
         "id": 39,
@@ -387,6 +425,7 @@
         "description": "Filtre pour écran qui protège votre vie privée des regards indiscrets.",
         "dimensions": "Pour écrans de 15 à 24 pouces",
         "note": 4.2,
-        "id_categorie": 7
+        "id_categorie": 7,
+        "en_avant": false
     }
 ]
